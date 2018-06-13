@@ -1,0 +1,4 @@
+*.make
+*.cmake
+*.out
+*.o
