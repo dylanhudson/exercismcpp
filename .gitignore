@@ -2,3 +2,7 @@
 *.cmake
 *.out
 *.o
+*.bin
+*.cxx
+*.marks
+
