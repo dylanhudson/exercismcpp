@@ -1,0 +1,3 @@
+/Users/dylan/exercismcpp/exercism/cpp/gigasecond/CMakeFiles/rebuild_cache.dir
+/Users/dylan/exercismcpp/exercism/cpp/gigasecond/CMakeFiles/edit_cache.dir
+/Users/dylan/exercismcpp/exercism/cpp/gigasecond/CMakeFiles/gigasecond.dir
