@@ -1,11 +1,13 @@
 #include "gigasecond.h"
 
+
+const int GIGASECOND = 1000000000;
+
 boost::posix_time::ptime
 gigasecond::advance(boost::posix_time::ptime start)
 {
-	start = boost::posix_time::from_time_t(gigasecond::GIGASECOND);
 
+		start = start + boost::posix_time::seconds(GIGASECOND);
 
-	return start;
-    
+		return start;  
 }
